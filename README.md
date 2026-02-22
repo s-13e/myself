@@ -5,8 +5,8 @@ Solo developer building things.
 
 ## Tech Stack
 
-**Primary:** C# · React · TypeScript  
-**Familiar:** Python
+**Primary:** Python · TypeScript  
+**Familiar:** C# · React
 
 ## Projects
 
